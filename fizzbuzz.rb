@@ -3,7 +3,7 @@
 
 def fizzbuzz(int)
   if int % 3 == 0 
-      "Fizz"
+      puts "Fizz"
   elseif int % 5 == 0
       nil
   end 
